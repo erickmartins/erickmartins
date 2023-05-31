@@ -6,7 +6,7 @@ A lot of my time is dedicated to ![OMERO](https://www.openmicroscopy.org/omero/)
 
 ### Here are some projects I have been working on:
 - ![ezomero](https://github.com/TheJacksonLaboratory/ezomero) is a convenience-layer library to interact with OMERO servers using Python. I am currently the main developer and maintainer.
-- ![omero-cli-transfer](https://github.com/ome/omero-cli-transfer) is a utility tool for transfering data between OMERO servers, presenving hierarchies, annotations and regions of interest. I am also the main developer and maintainer.
+- ![omero-cli-transfer](https://github.com/ome/omero-cli-transfer) is a utility tool for transfering data between OMERO servers, preserving hierarchies, annotations and regions of interest. I am also the main developer and maintainer.
 
 ### What else do I do?
 - I spend a lot of time on ![forum.image.sc](image.sc) answering people's questions and learning from other people's answers.
