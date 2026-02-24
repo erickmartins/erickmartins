@@ -15,6 +15,7 @@ A lot of my time is dedicated to [OME](https://www.openmicroscopy.org/) efforts,
 - I spend a lot of time on [forum.image.sc](image.sc) answering people's questions and learning from other people's answers.
 - I'm part of the Curriculum Advisory Committee for the [Image Processing curriculum at The Carpentries](https://datacarpentry.org/image-processing/), the BINA [Image Informatics Working Group](https://www.bioimagingnorthamerica.org/image-informatics-wg/) and the [Image Data Management Working Group](https://globalbioimaging.org/working-groups/image-data-management) at Global Bioimaging.
 - I co-organized the first two editions of the [Northeast Bioimage Analysis Meeting](https://www.jax.org/education-and-learning/education-calendar/2023/10-October/northeast-bioimage-analysis-meeting) at The Jackson Laboratory, and the [OME 2025 Community Meeting](https://www.bioimagingnorthamerica.org/events/ome-2025-community-meeting/) in Woods Hole, MA.
+- I am an topic editor (Biomedical Engineering, Biosciences, Chemistry, and Materials) for the [Journal of Open Source Software](https://joss.theoj.org/).
 
 <!--
 **erickmartins/erickmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
